@@ -3,14 +3,14 @@
 A discord bot built in Python to test the discord API.
 
 
-
+</br>
 ## Features
 
 - Music
 - Random
 
 
-
+</br>
 ## Running the tests
 
 Open your Terminal and change the directory to its path. Then enter this command.
@@ -18,14 +18,14 @@ Open your Terminal and change the directory to its path. Then enter this command
     python main.py
 
 
-
+</br>
 ## Requirement
 
 Make sure that you have installed the dependency below.</br>
 - [FFmpeg](https://ffmpeg.org/download.html)
 
 
-
+</br>
 ## Command
 
 All command:
@@ -42,7 +42,7 @@ All command:
     /เล่นต่อ - เล่นเพลงปัจจุบันต่อหากถูกหยุด
 
 
-
+</br>
 ## License
 
 This project is licensed under the [GNU GPL v2.0](Discord-bot/LICENSE.md)
