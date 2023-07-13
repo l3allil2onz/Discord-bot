@@ -3,10 +3,13 @@
 A discord bot built in Python to test the discord API.
 
 
+
 ## Features
 
 - Music
 - Random
+
+
 
 ## Running the tests
 
@@ -15,10 +18,13 @@ Open your Terminal and change the directory to its path. Then enter this command
     python main.py
 
 
+
 ## Requirement
 
 Make sure that you have installed the dependency below.</br>
 - [FFmpeg](https://ffmpeg.org/download.html)
+
+
 
 ## Command
 
@@ -34,6 +40,7 @@ All command:
     /ปิด - ตัดการเชื่อมต่อบอทออกจากแชท
     /หยุด - หยุดเพลงปัจจุบันที่กำลังเล่น หรือ เล่นเพลงปัจจุบันต่อ หากถูกหยุดไว้แล้ว
     /เล่นต่อ - เล่นเพลงปัจจุบันต่อหากถูกหยุด
+
 
 
 ## License
