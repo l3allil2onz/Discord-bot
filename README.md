@@ -20,6 +20,8 @@ Open your Terminal and change the directory to its path. Then enter this command
 
 Make sure that you have installed it below. </br>
 
+- [python](https://www.python.org/downloads/)
+
 **Dependency:** </br>
  You need it to convert the file.
 - [FFmpeg](https://ffmpeg.org/download.html)
