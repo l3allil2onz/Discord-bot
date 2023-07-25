@@ -1,6 +1,6 @@
 # Discord-bot
 
-A discord bot built in Python to test the discord API.
+A discord bot built in Python to test the discord API, This is the first version that currently has a feature to play music on youtube.
 
 
 ## Features
